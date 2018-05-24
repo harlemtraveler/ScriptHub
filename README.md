@@ -31,6 +31,8 @@ ID | Script_id
 --- | ---
 1 | 1
 
+<h4>Script Table</h4>
+
 ID | Name | Data_url | Platform | Price
 --- | --- | --- | --- | ---
 1 | auto_sploit | http://google.com | 800 |    
