@@ -9,7 +9,7 @@
 <h3>Blockchain:</h3>
 <p>Blockchain will be used to enable secure data transactions for micro-contracts. It will also be utilized for smart contracts, to manage access for leased material/data.</p>
 
-<img src="scripthub/wireframe/scripthub-search-display"></img>
+<img src="./scripthub/wireframe/scripthub-search-display.png"></img>
 
 <h3>Database Schema:</h3>
 
