@@ -1,6 +1,5 @@
 # ScriptHub
 
-<h1>ScriptHub</h1>
 <h3>DevOps Marketplace</h3>
 <p>A bespoke shop for hand crafted scripts</p>
 
@@ -10,4 +9,28 @@
 <h3>Blockchain:</h3>
 <p>Blockchain will be used to enable secure data transactions for micro-contracts. It will also be utilized for smart contracts, to manage access for leased material/data.</p>
 
-<img src="./wireframe/scripthub-search-display"></img>
+<img src="scripthub/wireframe/scripthub-search-display"></img>
+
+<h3>Database Schema:</h3>
+
+<h4>User Table</h4>
+
+ID | FirstName | LastName | UserName | Email
+--- | --- | --- | --- | ---
+1  | John | Doe | Jdoe | jdoe@mail.com   
+
+<h4>Account Table</h4>
+
+ID | Name | Repo_id
+--- | --- | ---
+1 | jdoe | 1
+
+<h4>Repo Table</h4>
+
+ID | Script_id
+--- | ---
+1 | 1
+
+ID | Name | Data_url | Platform | Price
+--- | --- | --- | --- | ---
+1 | auto_sploit | http://google.com | 800 |    
